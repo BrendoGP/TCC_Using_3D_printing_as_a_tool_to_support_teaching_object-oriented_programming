@@ -1,0 +1,116 @@
+LEVANTAMENTO GERAL DOS TESTES — AVALIAÇÃO GLOBAL DAS QUATRO PERSONAS
+
+A aplicação dos quatro objetos físicos — labirinto (abstração), caixa com portas (encapsulamento), caixa de arrays (tipagem e coleções) e porta-cartões (herança e polimorfismo) — possibilitou observar padrões consistentes no comportamento das quatro personas participantes. A seguir, apresenta-se uma síntese geral dos resultados obtidos.
+
+1. Compreensão Conceitual Global
+
+Os objetos físicos cumpriram o papel de reduzir a carga cognitiva, permitir aprendizagem por exploração tátil/visual e tornar conceitos abstratos mais concretos.
+De forma geral:
+
+Persona 1 (iniciante) apresentou evolução significativa quando o objeto reforçava o conceito por tentativa e erro.
+
+Persona 2 (intermediário teórico) consolidou a compreensão com facilidade, usando os objetos para confirmar e visualizar ideias já sabidas.
+
+Persona 3 (deficiência visual) compreendeu bem quando havia relevo, braille e feedback tátil, mas demonstrou limitações claras quando a peça não oferecia pistas físicas suficientes.
+
+Persona 4 (prático) aprendeu principalmente através de tentativa, erro e dedução a partir de comportamentos físicos das peças.
+
+Em todos os perfis, a manipulação dos objetos favoreceu insights espontâneos, especialmente sobre encapsulamento e polimorfismo.
+
+2. Dificuldades Comuns Identificadas
+
+Apesar da diversidade de perfis, algumas dificuldades foram compartilhadas entre todos:
+
+(a) Abstração – Labirinto
+
+A impossibilidade de ver o interior gerou frustração inicial, especialmente nos iniciantes e práticos.
+
+A persona com deficiência visual teve pouco acesso a indicadores internos, dependendo quase exclusivamente da entrada/saída.
+
+(b) Encapsulamento – Caixa com Portas
+
+A porta privada levou todos os participantes a tentar acessá-la de maneiras alternativas, o que demonstrou compreensão intuitiva após a frustração inicial.
+
+A persona 1 e 4 confundiram inicialmente encapsulamento com bloqueio físico e só posteriormente internalizaram o conceito.
+
+(c) Arrays – Caixa Compartimentada
+
+As maiores dificuldades surgiram com tipagem e compatibilidade, especialmente para o iniciante.
+
+Personas 1 e 4 dependiam de erro físico para entender regras de tipo.
+
+Persona 3 detectou limitações por falta de numeração tátil nos índices.
+
+(d) Herança e Polimorfismo – Porta-Cartões
+
+Foi o objeto mais intuitivo para todos os perfis.
+
+O encaixe comum e o comportamento diferente ao deslizar permitiram compreensão rápida da relação pai–filho.
+
+O iniciante conseguiu compreender o conceito de forma concreta, mesmo sem dominar termos acadêmicos.
+
+3. Insights e Padrões Cognitivos Identificados
+Persona 1 — Iniciante
+
+Aprende por tentativa e erro.
+
+Precisa de feedback claro e imediato (ex.: encaixar errado, porta que não abre).
+
+Gera insights quando percebe diferenças físicas representando conceitos abstratos.
+
+Apresentou maior ganho nos testes de arrays e polimorfismo.
+
+Persona 2 — Intermediário Teórico
+
+Utilizou os objetos para confirmar modelos mentais já existentes.
+
+Produziu explicações teóricas naturalmente a partir das peças.
+
+Enxergou relações diretas entre objeto e conceitos de POO (ex.: API, contrato, verificação de tipo).
+
+Persona 3 — Deficiência Visual
+
+Alto desempenho quando o objeto tinha marcação tátil, braille, relevos claros e travas perceptíveis.
+
+Prejuízo significativo na abstração (labirinto), onde o interior físico não oferecia pistas acessíveis.
+
+Ofereceu sugestões importantes de acessibilidade que melhorariam os objetos.
+
+Persona 4 — Prático
+
+Quer explorar, desmontar, forçar funcionalidades.
+
+Aprende quando o objeto responde fisicamente (erro mecânico, travamento, encaixe).
+
+Sua compreensão melhora após falhas repetidas — padrão marcante na aprendizagem deste perfil.
+
+4. Efetividade Geral dos Objetos
+
+A análise cruzada indica que cada objeto físico demonstrou níveis distintos de efetividade:
+
+Objeto	Efetividade Global	Observações Gerais
+Porta-cartões (herança/polimorfismo)	⭐⭐⭐⭐⭐	Objeto mais intuitivo; compreensão rápida em todos os perfis.
+Caixa com portas (encapsulamento)	⭐⭐⭐⭐☆	Forte compreensão por frustração de acesso; excelente para ensino prático.
+Caixa de arrays (tipagem)**	⭐⭐⭐⭐☆	Alta eficiência tátil e visual; dificuldade para iniciantes diminui com repetição.
+Labirinto (abstração)	⭐⭐⭐☆☆	Eficaz como metáfora, mas limitado para deficientes visuais e iniciantes com baixa abstração.
+5. Conclusão Geral
+
+Os testes mostraram que os objetos cumpriram seu papel pedagógico ao transformar conceitos abstratos de POO em interações concretas. Houve:
+
+melhoria perceptível na compreensão conceitual,
+
+redução das dificuldades iniciais,
+
+engajamento natural,
+
+e insights espontâneos em todos os perfis, especialmente sobre encapsulamento e polimorfismo.
+
+A integração da experiência sensorial com a estrutura física dos objetos se mostrou particularmente poderosa para:
+
+iniciantes,
+
+estudantes práticos,
+
+e pessoas com deficiência visual (quando o objeto fornecia pistas adequadas).
+
+O levantamento global revela que o uso de artefatos físicos é altamente promissor como estratégia complementar ao ensino de Programação Orientada a Objetos, sobretudo em cenários onde a compreensão abstrata é um desafio.
