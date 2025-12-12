@@ -1,0 +1,34 @@
+PERSONA 4 — Mordecai Elías (Prático com Falhas Conceituais)
+Resumo das respostas para todos os 4 testes
+
+1) TESTE DE ABSTRAÇÃO — LABIRINTO
+
+Primeiro tentei abrir a peça — queria ver por dentro. Como não consegui, coloquei a bolinha e comecei a inclinar bruscamente para ver se acontecia algo diferente. Depois de repetir umas 10 vezes percebi: não importa como eu mexo, não posso ver nada dentro.
+
+O insight veio quando pensei: “ah, então isso é pra eu só usar sem entender tudo”. Meio frustrante, mas fez sentido.
+
+Conclusão: abstração = saber usar mesmo sem ver o interior.
+
+2) TESTE DE ENCAPSULAMENTO — CAIXA COM PORTAS
+
+Minha primeira reação foi tentar abrir as duas portas. A pública abriu, a privada nem mexeu. Tentei forçar. Nada. Tentei virar, sacudir, procurar uma fresta — também nada. Finalmente entendi: a ideia é que só quem está dentro pode mexer.
+
+O insight: “privado é aquilo que eu não posso alcançar por fora, mesmo que tente”.
+
+Conclusão: metáfora clara depois de tentativa e erro.
+
+3) TESTE DE ARRAYS — CAIXA COMPARTIMENTADA
+
+Fui direto testando: coloquei peças erradas em buracos errados. Gostei da sensação de “erro físico”. Depois experimentei trocar tampas, e aí percebi que o tipo mudava.
+
+O insight foi entender que “se trocar a tampa, tudo muda junto” — array de outro tipo.
+
+Conclusão: array = conjunto de posições fixas que aceitam só um tipo.
+
+4) TESTE DE HERANÇA E POLIMORFISMO — PORTA-CARTÕES
+
+Comecei puxando cartões aleatórios. Gostei do fato de todos entrarem no mesmo encaixe — então deduzi que isso era o “padrão”. Depois percebi que cada cartão mostrava algo diferente quando eu deslizava.
+
+O insight: “ah, então herança é a forma igual; polimorfismo é a função diferente”.
+
+Conclusão: objeto prático, muito intuitivo.

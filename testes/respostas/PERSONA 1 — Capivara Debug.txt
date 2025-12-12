@@ -1,0 +1,48 @@
+PERSONA 1 — Capivara Debug (Iniciante com Dificuldade de Abstração)
+Resumo das respostas para todos os 4 testes
+
+1) TESTE DE ABSTRAÇÃO — LABIRINTO
+
+Quando peguei o labirinto, primeiro fiquei meio perdido. Fui girando a peça para tentar achar onde a bolinha entrava. Quando achei o buraquinho de entrada, coloquei a esfera e fiquei balançando para ver pra onde ela iria. No começo pensei que era tipo um brinquedo normal, mas percebi que eu não conseguia ver como a bolinha se movia lá dentro, só a entrada e a saída.
+
+A primeira dúvida que tive foi: “por que eu não posso ver o caminho dentro?”. Tentei olhar pelas frestas, mas não dava. Só quando mexi bastante senti que a bolinha demorava ou acelerava dependendo do ângulo, e isso me deu uma sensação de que existem coisas acontecendo ali dentro que eu não controlo.
+
+O insight veio quando percebi: a entrada e a saída são como as partes que o programador usa, mas o resto ali dentro é escondido. A peça me fez sentir isso de forma meio natural, porque eu só podia usar aquelas duas partes e nada mais. Acho que entendi que abstração é quando você usa algo sem saber tudo o que tem dentro.
+
+O que mais ajudou foi justamente não conseguir ver o caminho. O que mais atrapalhou foi que eu queria ver o que tinha dentro e ficava frustrado.
+
+Aprendido: abstração é esconder o que não importa e deixar só o que a gente usa.
+Parte que mais ajudou: a sensação de “mistério” dentro do labirinto.
+
+2) TESTE DE ENCAPSULAMENTO — CAIXA COM PORTAS
+
+Peguei a caixa e vi duas portas. A pública abria fácil, a privada não. Minha primeira reação foi tentar abrir com força — não deu certo. Depois eu passei a mão em volta procurando algum botão, chave, qualquer coisa. Consegui abrir só a pública.
+
+A dúvida principal: “por que a outra não abre?”. Quando percebi que isso era de propósito, comecei a associar com a ideia de “permitido” e “não permitido”. Alguém me explicou que isso representava atributos e métodos privados. Aí fez sentido.
+
+O insight foi quando tentei acessar por trás (literalmente virei a caixa tentando abrir pelo fundo) e ainda assim não dava. “Ah... então privado é algo que não dá pra acessar de fora mesmo”.
+
+Aprendido: encapsulamento é controlar quem pode mexer em certas partes.
+Parte que mais ajudou: a porta que não abre de jeito nenhum.
+
+3) TESTE DE ARRAYS — CAIXA COMPARTIMENTADA
+
+No começo, só fui tirando tampas aleatórias. Fui encaixando peças e tentando colocar uma quadrada em um lugar circular. Não entrava. Fiquei irritado. Depois percebi que as tampas tinham formatos que só deixavam passar certos tipos de peças.
+
+Comecei a entender que aquele formato era o “tipo” do array. Se a tampa tinha buracos quadrados, só peças quadradas podiam entrar. Foi quando tive o insight: ah, é como quando o professor fala que array tem tipo fixo.
+
+Errei várias vezes tentando colocar peças diferentes, mas isso me ajudou a ver que os buracos são as posições e que cada posição só aceita um tipo.
+
+Aprendido: array guarda várias coisas iguais, cada uma na sua posição.
+Parte que mais ajudou: o erro físico ao tentar encaixar peça errada.
+
+4) TESTE DE HERANÇA E POLIMORFISMO — PORTA-CARTÕES
+
+Peguei o porta-cartões e fiquei deslizando os cartões pra cima e pra baixo. Todos entravam no mesmo encaixe — então pensei: “isso deve ser a parte igual a todos eles”. Cada cartão tinha uma frase ou desenho diferente quando puxava.
+
+O insight veio quando percebi que todos tinham o mesmo formato, mas cada um mostrava algo diferente ao deslizar. “Ah! Então isso é tipo classe filha fazendo algo do seu jeito”.
+
+Tive dúvida no começo sobre por que eram tão parecidos. Depois entendi que é porque eles “herdam” o formato.
+
+Aprendido: herança é ter o mesmo formato base; polimorfismo é cada cartão mostrar algo diferente.
+Parte que mais ajudou: deslizar os cartões e ver comportamentos diferentes.

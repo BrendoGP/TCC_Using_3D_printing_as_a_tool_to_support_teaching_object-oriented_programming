@@ -1,0 +1,34 @@
+PERSONA 2 — Bob Esponja Código Redondo (Intermediário Teórico)
+Resumo das respostas para todos os 4 testes
+
+1) TESTE DE ABSTRAÇÃO — LABIRINTO
+
+Ao manipular o labirinto, observei rapidamente a distinção entre interface e implementação. A entrada e a saída são acessíveis, o percurso interno é oculto. Coloquei a esfera diversas vezes e notei que o comportamento era determinístico: sempre que eu inclinava de um jeito específico, a esfera seguia um padrão previsível mesmo sem eu visualizar o trajeto. Isso reforçou minha percepção do conceito de “camada de abstração”.
+
+O insight foi quando associei a peça à ideia de uma função: forneço input, obtenho output, sem conhecer a mecânica interna.
+
+Conclusão: o labirinto funciona como modelo físico de API.
+
+2) TESTE DE ENCAPSULAMENTO — CAIXA COM PORTAS
+
+Abri a porta pública e inspecionei os mecanismos. Quando tentei acessar a porta privada e falhei, ficou claro o conceito de restrição de acesso. Toquei nas travas e percebi que só poderiam ser liberadas internamente.
+
+O insight ocorreu ao perceber que a porta pública é a interface, enquanto a privada representa estado interno protegido.
+
+Conclusão: excelente analogia de atributos privados que só métodos internos podem modificar.
+
+3) TESTE DE ARRAYS — CAIXA COMPARTIMENTADA
+
+Testei múltiplas tampas. Cada tampa definia um conjunto restrito de encaixes: circular, quadrado, triangular. Isso imediatamente remeteu ao conceito de tipagem estática. Tentei inserir um item incorreto de propósito — encaixe falhou e produziu atrito imediato.
+
+O insight veio quando percebi que trocar a tampa equivale a redefinir o tipo do array inteiro.
+
+Conclusão: modelo excelente para pensar em coerção de tipo e verificação estática.
+
+4) TESTE DE HERANÇA E POLIMORFISMO — PORTA-CARTÕES
+
+Inspecionei a estrutura do porta-cartões: encaixe padronizado que recebe qualquer cartão — classe pai. Os cartões apresentam comportamentos distintos ao deslizar — classe filha com override.
+
+O insight veio ao imaginar projetar um novo cartão com comportamento diferenciado, mantendo o mesmo “contrato físico”.
+
+Conclusão: o design evidencia perfeitamente a hierarquia e o polimorfismo.

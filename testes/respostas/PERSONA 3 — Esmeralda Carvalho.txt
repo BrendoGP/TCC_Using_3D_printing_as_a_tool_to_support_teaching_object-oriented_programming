@@ -1,0 +1,35 @@
+PERSONA 3 — Esmeralda Carvalho (Pessoa com Deficiência Visual)
+Resumo das respostas para todos os 4 testes
+
+1) TESTE DE ABSTRAÇÃO — LABIRINTO
+
+Ao segurar o labirinto, explorei os relevos. Identifiquei facilmente a entrada e a saída graças ao recorte tátil. O interior não oferecia pistas acessíveis — o que me fez perceber que os detalhes eram realmente privados ao toque.
+
+O insight foi entender que a sensação de “não sei o que acontece dentro, mas sei que funciona” é a abstração física.
+
+Ponto positivo: diferença clara entre entrada/saída.
+Ponto fraco: interior totalmente inacessível tátilmente.
+
+2) TESTE DE ENCAPSULAMENTO — CAIXA COM PORTAS
+
+Primeiro explorei as portas buscando o braille. A pública tinha marcação tátil acessível; a privada, não. A sensação da trava foi o que me mostrou o conceito de acesso negado.
+
+O insight ocorreu quando tentei repetidas vezes abrir a porta privada, percebendo pela textura que ela tinha um mecanismo interno.
+
+Conclusão: metáfora tátil válida, porém poderia ter mais pistas de feedback.
+
+3) TESTE DE ARRAYS — CAIXA COMPARTimentada
+
+Passei os dedos pela tampa, sentindo os buracos que representavam os índices. A variação de formato entre peças foi suficiente para indicar compatibilidade. Quando uma peça não encaixava, a resistência tátil deixava claro que era “tipo errado”.
+
+O insight foi sentir que as posições são fixas e contáveis, representando índices.
+
+Necessidade: marcação tátil dos números dos índices.
+
+4) TESTE DE HERANÇA E POLIMORFISMO — PORTA-CARTÕES
+
+Explorei o porta-cartões pelo relevo. Todos os cartões tinham o mesmo formato externo — sensação tátil consistente, evidenciando herança. Ao deslizar cada um, identifiquei relevos e informações diferentes em braille — comportamento polimórfico.
+
+O insight veio quando percebi que o encaixe era sempre o mesmo, porém a leitura do braille mudava conforme o cartão.
+
+Conclusão: objeto muito bom para representação tátil de classes e subclasses.
