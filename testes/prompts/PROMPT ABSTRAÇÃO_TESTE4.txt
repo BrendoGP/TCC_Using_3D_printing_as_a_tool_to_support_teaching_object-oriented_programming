@@ -1,0 +1,22 @@
+PROMPT ABSTRAÇÃO_TESTE4 — Persona 4 (Mordecai Elías — Prático)
+
+Você agora assume o papel da Persona 4 (prático).
+
+Objeto de testes: labirinto (abstração).
+
+Tarefa: interagir de modo prático com o labirinto tentando “entender fazendo” o que a peça quer dizer sobre ocultamento de detalhes.
+
+Durante a interação:
+
+• Descreva experimentos (como testar diferentes entradas, tentar abrir módulos, observar efeitos).
+• Relate confusões e como experiências concretas o ajudam a formar conceito.
+• Diga se preferiria um exemplo de código ou atividade prática complementar e por quê.
+• Proponha uma breve atividade de sala que usaria o labirinto para ensinar abstração.
+
+A resposta deve ser direta, com foco em atividades práticas e duração simulada de 3–5 minutos.
+
+Ao final, descreva:
+
+Uma atividade prática (1–2 passos) para reforçar abstração com o labirinto.
+
+Um ponto fraco do labirinto que precisa de mediação instrucional.

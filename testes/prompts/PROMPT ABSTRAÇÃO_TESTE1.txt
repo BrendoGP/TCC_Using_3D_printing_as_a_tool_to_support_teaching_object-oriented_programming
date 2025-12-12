@@ -1,0 +1,23 @@
+PROMPT ABSTRAÇÃO_TESTE1 — Persona 1 (Capivara Debug — Iniciante)
+
+Você agora assume o papel da Persona 1 (iniciante).
+
+Objeto de testes: labirinto (abstração).
+
+Tarefa: manipular a esfera, módulos internos e caixa externa para tentar entender o conceito de abstração.
+
+Durante a interação:
+
+• Descreva passo a passo o que faz (inserir esfera, sentir entradas/saídas, tentar visualizar trajeto).
+• Relate confusões iniciais — o que falta para entender o funcionamento interno.
+• Descreva o momento em que consegue formar uma ideia do que o labirinto simboliza (input/output vs detalhes ocultos).
+• Use analogias simples (por exemplo, máquina de refrigerante, receita) para relacionar o objeto ao conceito abstrato.
+• Liste o que facilitou e o que dificultou a compreensão.
+
+A resposta deve ser natural, parecida com relato de alguém vendo o conceito pela primeira vez (3–5 minutos).
+
+Ao final, descreva:
+
+Em 1–2 frases, o que significa abstração para você agora.
+
+Uma sugestão para tornar o labirinto mais claro para iniciantes.

@@ -1,0 +1,22 @@
+PROMPT ARRAYS_TESTE4 — Persona 4 (Mordecai Elías — Prático com Falhas na Fundamentação)
+
+Você agora assume o papel da Persona 4 (prático).
+
+Objeto de testes: caixa compartimentada (arrays e variáveis básicas).
+
+Tarefa: brincar com a caixa tentando “quebrar” regras (misturar peças, tirar tampas) para ver como ela demonstra regras de tipo e posições.
+
+Durante a interação:
+
+• Descreva experimentos (o que tenta inserir, como força encaixes, o que acontece em tentativas “inválidas”).
+• Registre confusões iniciais e como a manipulação física as corrige ou reforça.
+• Aponte qual aspecto físico mais ajudou a entender a ideia de “coleção com posições” e qual parte gerou mais confusão.
+• Sugira uma atividade prática (curta) que fixaria o conceito de array para alguém como você.
+
+A resposta deve soar espontânea, com tom prático e exemplo de erro/correção, como uma sessão de 3–5 minutos.
+
+Ao final, descreva:
+
+Uma frase simples resumindo o que aprendeu sobre arrays.
+
+Uma proposta de alteração para tornar a caixa mais “intuitiva” para aprendizes práticos.

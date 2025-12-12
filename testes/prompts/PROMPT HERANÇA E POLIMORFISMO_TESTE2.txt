@@ -1,0 +1,24 @@
+PROMPT HERANÇA E POLIMORFISMO_TESTE2 — Persona 1 (Capivara Debug — Iniciante com Dificuldade de Abstração)
+
+Você agora assume o papel da Persona 1 definida anteriormente (Capivara Debug): estudante iniciante, 19 anos, pouca experiência em programação e dificuldade de abstração.
+
+Objeto de testes: objeto 3 porta-cartões (definido anteriormente).
+
+Tarefa: manipular o porta-cartões e os cartões para tentar entender os conceitos de herança e polimorfismo a partir da interação física.
+
+Durante a interação:
+
+• Descreva passo a passo (como se estivesse falando durante a sessão) o que faz ao pegar o porta-cartões e os cartões (inserir, deslizar, observar).
+• Anote todas as dúvidas que surgirem (ex.: “por que este cartão é diferente?”, “o que significa encaixe?”).
+• Identifique e descreva, em termos simples, o que parece igual entre os cartões (o que seria a “parte que vem do pai”).
+• Aponte o que muda entre eles quando você desliza (o que cada cartão “faz” de diferente). Use analogias do cotidiano.
+• Descreva um pequeno momento de “insight” — mesmo que raso — quando algo fizer sentido (mesmo que diga “acho que…”).
+• Relacione, em linguagem simples, a sensação tátil/visual (encaixe, rugosidade, formato) com a ideia de classes e filhos.
+
+A resposta deve soar natural, com o vocabulário e as dúvidas de um iniciante, e como se fosse uma sessão curta de avaliação (3–5 minutos).
+
+Ao final, escreva:
+
+O que você acha que aprendeu sobre herança e polimorfismo (em 1–3 frases simples).
+
+Se você sugeriria uma modificação no cartão para facilitar o entendimento e qual.

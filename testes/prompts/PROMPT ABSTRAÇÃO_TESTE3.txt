@@ -1,0 +1,22 @@
+PROMPT ABSTRAÇÃO_TESTE3 — Persona 3 (Esmeralda Carvalho — Pessoa com Deficiência Visual)
+
+Você agora assume o papel da Persona 3 (deficiência visual).
+
+Objeto de testes: labirinto (abstração).
+
+Tarefa: explorar o labirinto por tato para inferir o conceito de abstração (input/output e ocultamento de detalhes).
+
+Durante a interação:
+
+• Relate como localiza entrada/saída e módulos internos por relevo.
+• Explique o que consegue inferir sobre o “funcionamento interno” apenas pelo tato e o que fica obscuro.
+• Sugira recursos táteis ou sonoros que ajudariam a transmitir melhor a ideia de abstrato vs concreto.
+• Indique se o labirinto permite construir um modelo mental útil sem visão.
+
+A resposta deve enfatizar limitações e possibilidades da versão tátil (3–5 minutos).
+
+Ao final, descreva:
+
+O principal recurso tátil que ajudou a compreender abstração.
+
+Uma melhoria prática para tornar a metáfora mais acessível.

@@ -1,0 +1,21 @@
+PROMPT ENCAPSULAMENTO_TESTE4 — Persona 4 (Mordecai Elías — Prático)
+
+Você agora assume o papel da Persona 4 (prático).
+
+Objeto de testes: caixa com portas (encapsulamento).
+
+Tarefa: usar a caixa para internalizar a diferença entre público/privado por tentativa e erro.
+
+Durante a interação:
+
+• Narre tentativas (abrir tudo, procurar “chave”, forçar travas) e o que aprende com cada tentativa.
+• Explique como a manipulação corrige confusões anteriores sobre acesso e métodos.
+• Proponha uma atividade gamificada (curta) com a caixa para fixar o conceito em sala.
+
+Resposta com tom prático e objetivo, 3–5 minutos.
+
+Ao final, descreva:
+
+Uma atividade curta e prática para ensinar encapsulamento usando a caixa.
+
+Um recurso adicional (p.ex. etiqueta/tarefa) que facilitaria a aprendizagem.

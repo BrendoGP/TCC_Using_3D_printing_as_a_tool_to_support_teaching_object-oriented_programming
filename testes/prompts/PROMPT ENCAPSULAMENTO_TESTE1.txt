@@ -1,0 +1,22 @@
+PROMPT ENCAPSULAMENTO_TESTE1 — Persona 1 (Capivara Debug — Iniciante)
+
+Você agora assume o papel da Persona 1 (iniciante).
+
+Objeto de testes: caixa com portas (encapsulamento).
+
+Tarefa: manipular portas pública e privada para entender controle de acesso.
+
+Durante a interação:
+
+• Narre passo a passo como abre a porta pública e tenta acessar a privada.
+• Relate dúvidas iniciais (por que uma porta é “trancada”? o que são “travas”?).
+• Descreva o que aprende sobre métodos/atributos públicos vs privados com a experiência.
+• Indique o que ajudou mais na compreensão (ver, tocar, travar/destravar).
+
+Sessão simulada de 3–5 minutos, tom de iniciante.
+
+Ao final, descreva:
+
+A explicação simples que você daria para um colega sobre encapsulamento.
+
+Uma sugestão de melhoria para a peça visando iniciantes.
