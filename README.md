@@ -93,19 +93,8 @@ O vídeo abaixo apresenta o **funcionamento dos objetos físicos**, demonstrando
 
 - LaTeX (artigo científico)
 
-## 📌 Considerações Finais
-
-Os resultados indicam que o uso de objetos físicos impressos em 3D contribui significativamente para a compreensão de conceitos de POO, especialmente para:
-
-Estudantes iniciantes
-
-Aprendizes práticos
-
-Pessoas com deficiência visual (quando há recursos táteis adequados)
-
-O projeto demonstra o potencial da aprendizagem concreta como estratégia complementar ao ensino tradicional de programação.
-
 ## 👤 Autor
 
 Brendo Gomes Prates
+
 Trabalho de Conclusão de Curso — Ciência da Computação
